@@ -5,7 +5,7 @@
   <b>𝑷𝑹𝑶𝑭𝑬𝑺𝑺𝑶𝑹</b>
 </h1>
 
-<a href="https://t.me/cinemala_com1">
+<a href="https://t.me/MOVIE_LAND_2_BACKUP">
   <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="70">
 
 [![Stars](https://img.shields.io/github/stars/Devil-Botz/Elsa?style=flat-square&color=yellow)](https://github.com/Devil-Botz/Elsa/stargazers)
@@ -140,7 +140,7 @@ python3 bot.py
 * /font - fonts for your text
 * /deletefiles - PreDvD CamRip deletion
 ```
-<b> 😇CREATOR » [Aswin](https://t.me/Aswin_pm_Bot)</b>
+<b> 😇CREATOR » [HARSH](https://t.me/MOVIE_LAND_2_BACKUP)</b>
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
